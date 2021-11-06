@@ -30,6 +30,8 @@ Users should be able to:
 
 ![](./1.jpg)
 ![](./2.jpg)
+![](./3.jpg)
+![](./4.jpg)
 ### Links
 - Live Site URL: (https://espalmaz.github.io/Prac-1/)
 - Live Site URL: (https://girllwhocodes.github.io/-/)
