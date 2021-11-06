@@ -33,8 +33,8 @@ Users should be able to:
 ![](./3.jpg)
 ![](./4.jpg)
 ### Links
-- Live Site URL: (https://espalmaz.github.io/Prac-1/)
-- Live Site URL: (https://girllwhocodes.github.io/-/)
+- Live Site URL: (https://espalmaz.github.io/practis-2/)
+
 
 ## My process
 
@@ -107,5 +107,5 @@ In the future, we are going to study various aspects of Javascript in more depth
 - (https://developer.mozilla.org/ru /) this resource also has a lot of useful articles on various topics , on this site we found answers to some of our questions.
 ## Author
 
-- Website - [Tashimov Almaz and Rinatova Madina] (https://espalmaz.github.io/Prac-1/ )( https://girllwhocodes.github.io/-/ )
-- Repository ( https://github.com/EspALmaz/Prac-1.git ) ( https://github.com/girllwhocodes/- )
+- Website - [Tashimov Almaz and Rinatova Madina] (https://espalmaz.github.io/practis-2/ )
+- Repository ( https://github.com/EspALmaz/Prac-1.git )
