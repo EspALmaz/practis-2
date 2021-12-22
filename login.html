@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Login Register</title>
+	<script type="text/javascript" src="jQuery.js"></script>
+	<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+	<link rel="stylesheet" type="text/css" href="style5.css">
+	<link rel="shortcut icon" href="https://cdn.icon-icons.com/icons2/1352/PNG/512/if-06-harry-potter-colour-sorting-hat-2730319_88134.png" type="image/png">
+	<bgsound src="music.mp3" loop="-1" volume="-750" balance volume="-10000">
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+</head>
+<body>
+	<div class="main"> 	
+		<a href="Home.html"><i class="material-icons">arrow_back</i></a>
+		<input type="checkbox" id="chk" aria-hidden="true">
+			<div class="signup">
+				<form id="forms">
+					<label for="chk" aria-hidden="true">Sign up</label>
+					 <input id="username" name="username" type="text" placeholder="Enter your User name">
+					<input  name="email" id="email" type="text" placeholder="Enter your email address">
+					<input id="password" name="password"  type="password" placeholder="Enter your Password">
+					<button>Sign up</button>
+				</form>
+			</div>
+			<div class="login">
+				<form id="forms2">
+					<label for="chk" aria-hidden="true">Login</label>
+					<input id="username" name="username" type="text" placeholder="Enter your User name">
+					<input class="ad" id="password" name="password"  type="password" placeholder="Enter your Password">
+					<button>Login</button>
+					<div class="admin">
+					</div>
+				</form>
+			</div>
+	</div>
+	<script src="valid.js"></script>
+	
+</body>
+</html>
